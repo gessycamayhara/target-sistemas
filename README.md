@@ -1,1 +1,1 @@
-Repositorio com as respostas das questões proprostas para o testa da vaga de estágio da Target Sistemas. 
+Repositorio com as respostas das questões proprostas para o teste da vaga de estágio da Target Sistemas. 
